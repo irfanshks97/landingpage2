@@ -1,0 +1,78 @@
+* {
+  font-family: sans-serif;
+  font-weight: 400;
+}
+.form {
+  border: 2px solid rgba(9, 74, 178, 255);
+  width: 320px;
+  font-family: "sans-serif";
+}
+
+.form .container .row {
+  background-color: rgba(9, 74, 178, 255);
+  height: 150px;
+}
+
+.form .container .row img {
+  width: 90%;
+}
+
+.facebook_div {
+  background-color: #ffffff;
+  width: 38%;
+}
+
+.form-body {
+  background-color: rgba(228, 228, 228, 255);
+}
+
+.para {
+  font-size: 12px;
+}
+
+.facebook {
+  padding: 5px;
+  color: #fff;
+  background-color: rgba(59, 89, 153, 255);
+}
+.twitter {
+  color: #fff;
+  background-color: rgba(85, 172, 239, 255);
+  padding: 6px;
+}
+
+.facebook-span {
+  font-size: 11px;
+}
+
+label,
+input {
+  margin: 5px 0px;
+  width: 100%;
+  font-size: 12px;
+}
+
+input,
+select {
+  border: 2px solid rgba(208, 204, 204, 0.897);
+  padding: 2px;
+}
+
+.form-button {
+  padding: 5px;
+  text-align: start;
+  align-items: center;
+  color: #fff;
+  background-color: rgba(9, 74, 178, 255);
+  font-size: 12px;
+  border: none;
+}
+
+.arrow {
+  margin-left: 40%;
+  font-size: 17px;
+}
+.card-title {
+  font-size: 1.1rem !important;
+  font-weight: 400;
+}
