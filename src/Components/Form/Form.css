@@ -59,18 +59,17 @@ select {
 }
 
 .form-button {
-  padding: 5px;
   text-align: start;
   align-items: center;
   color: #fff;
   background-color: rgba(9, 74, 178, 255);
-  font-size: 12px;
+  font-size: 14px;
   border: none;
 }
 
 .arrow {
   margin-left: 40%;
-  font-size: 17px;
+  font-size: 20px;
 }
 .card-title {
   font-size: 1.1rem !important;

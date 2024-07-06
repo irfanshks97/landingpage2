@@ -104,7 +104,7 @@ export default function Form() {
             </select>
           </div>
           <div className="mt-3 w-100">
-            <button className="form-button shadow w-100 d-flex">
+            <button className="form-button shadow w-100 d-flex p-2">
               <span className="ms-2">Get the free eBook</span>
               <IoArrowForwardCircleOutline className="arrow" />
             </button>
