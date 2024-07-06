@@ -6,26 +6,26 @@ import Form from "../Form/Form";
 export default function Section() {
   return (
     <div className="container-fluid p-md-5">
-      <div className="row justify-content-center p-5">
-        <div className="col-md-7 p-4 order-md-1 order-2">
+      <div className="row justify-content-center p-3">
+        <div className="col-md-8 order-md-1 order-2 pe-4 ps-5">
           <h1 className="title">
             Improve your team's mobile productivity with Office 365
           </h1>
           <div className="d-flex">
             <p className="me-2">Share:</p>
             <ul className="list-unstyled d-flex">
-              <li className="me-2 anchor-tag">
-                <a href="http://www.facebook.com">
+              <li className="me-2 list">
+                <a href="http://www.facebook.com" className="anchor-tag">
                   <FaFacebookF />
                 </a>
               </li>
-              <li className="me-2 anchor-tag">
-                <a href="http://www.twitter.com">
+              <li className="me-2 list">
+                <a href="http://www.twitter.com" className="anchor-tag">
                   <FaTwitter />
                 </a>
               </li>
-              <li className="anchor-tag">
-                <a href="http://www.linkedin.com">
+              <li className="list">
+                <a href="http://www.linkedin.com" className="anchor-tag">
                   <FaLinkedinIn />
                 </a>
               </li>
@@ -63,7 +63,7 @@ export default function Section() {
             </li>
           </ul>
         </div>
-        <div className="col-md-5 order-md-2 order-1">
+        <div className="col-md-4 order-md-2 order-1">
           <Form />
         </div>
       </div>

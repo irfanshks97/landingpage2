@@ -2,11 +2,14 @@
   font-family: sans-serif;
   font-weight: 400;
 }
-
+.list {
+  padding: 3px;
+}
 .anchor-tag {
   padding: 3px;
   border: 3px solid rgb(221, 219, 219);
-  font-size: 13px;
+  font-size: 15px;
+  color: rgba(9, 74, 178, 255);
   text-align: center;
 }
 
