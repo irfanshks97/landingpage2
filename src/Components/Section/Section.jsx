@@ -5,7 +5,7 @@ import Form from "../Form/Form";
 
 export default function Section() {
   return (
-    <div className="container-fluid p-md-4 p-2">
+    <div className="container-fluid p-md-5 pt-2 pe-4 pb-2 p-5">
       <div className="row justify-content-center p-5">
         <div className="col-md-7 p-4 order-md-1 order-2">
           <h1 className="title">
